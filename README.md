@@ -10,7 +10,7 @@ Meu nome é Gabriel Henrique Berlucci. Tenho 23 anos. Sou um desenvolvedor Back-
             <img src="https://img.shields.io/badge/-Proton%20Mail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" height="35" alt="proton mail logo"  />
         </a>
         <a href="https://www.linkedin.com/in/gabriel-berlucci/" target="_blank">
-            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+            <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-berlucci/" height="35" alt="linkedin logo" />
         </a>
     </div>
 </p>
